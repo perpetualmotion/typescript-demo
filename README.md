@@ -1,3 +1,5 @@
+Project Description
+
 This is project demo showcases TypeScripts type annotating and type guarding through the use of an image carousel. This carousel shows some of Nick's images from his trip to Tokyo. When you hover over the images you should see a short description and location for each image.
 
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
