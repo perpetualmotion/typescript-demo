@@ -1,3 +1,8 @@
+Project Description
+
+This project demo showcases TypeScripts type annotating and type guarding through the use of an image carousel. This carousel shows some of Nick's images from his trip to Tokyo. When you hover over the images you should see a short description and location for each image.
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
